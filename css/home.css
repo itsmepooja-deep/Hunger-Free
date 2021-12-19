@@ -10,6 +10,8 @@ body{
 }
 
 .wasting-food img{
+    height:auto;
+    width:auto;
     margin-left:5%;
     float:right;
 }
