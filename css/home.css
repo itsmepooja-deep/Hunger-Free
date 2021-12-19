@@ -3,6 +3,23 @@ body{
     margin:0;
 }
 
+.wasting-food{
+    background-color:black;
+    color:white;
+    display:inline-block;
+}
+
+.wasting-food img{
+    margin-left:5%;
+    float:right;
+}
+
+.wasting-food h2{
+    margin-left:5%;
+    margin-top:13%;
+    padding-right:10%;
+}
+
 .sharing {
     margin-top: 20px;
     margin-bottom: 20px;
@@ -16,19 +33,15 @@ body{
     padding-left: 0;
     border-radius: 35%;
     transform: rotate(15deg);
-    display:inline-block;
     float:left;
-}
-
-.sharing div{
-    display:inline-block;
-    margin-left: 20%;
-    margin-top: 0;
 }
 
 .sharing h2{
     margin-top:5%;
 }
+
+
+
 
 /* navbar-css */
 
