@@ -3,6 +3,32 @@ body{
     margin:0;
 }
 
+.sharing {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding:0;
+}
+
+.sharing img{
+    height: 10%;
+    width: 45%;
+    padding: 4%;
+    padding-left: 0;
+    border-radius: 35%;
+    transform: rotate(15deg);
+    display:inline-block;
+    float:left;
+}
+
+.sharing div{
+    display:inline-block;
+    margin-left: 20%;
+    margin-top: 0;
+}
+
+.sharing h2{
+    margin-top:5%;
+}
 
 /* navbar-css */
 
